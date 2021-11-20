@@ -1,2 +1,2 @@
 another file from tutor
-10+2 = 13 이라고 추가
+10+2 = 12 이라고 추가
